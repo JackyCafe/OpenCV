@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecdab285-203c-4052-903b-333362f1bd23" name="Default Changelist" comment="OpenCV" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Program\OpenCV\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VsFMvwCwA8EIukiuI7MAHWD0tj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program\OpenCV\src\com\Ian\Algebra" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program\OpenCV\Resource" />
+      <recent name="D:\Program\OpenCV\src\com\Ian\Algebra" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Canny">
+    <configuration name="Canny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ian.Morphology.Canny" />
+      <module name="OpenCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ian.Morphology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dilate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ian.Morphology.Dilate" />
+      <module name="OpenCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ian.Morphology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Erosion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ian.Morphology.Erosion" />
+      <module name="OpenCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ian.Morphology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prewitt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ian.ImageProcess.Prewitt" />
+      <module name="OpenCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ian.ImageProcess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SobelFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ian.ImageProcess.SobelFilter" />
+      <module name="OpenCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ian.ImageProcess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Prewitt" />
+      <item itemvalue="Application.SobelFilter" />
+      <item itemvalue="Application.Erosion" />
+      <item itemvalue="Application.Dilate" />
+      <item itemvalue="Application.Canny" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Canny" />
+        <item itemvalue="Application.Dilate" />
+        <item itemvalue="Application.Erosion" />
+        <item itemvalue="Application.SobelFilter" />
+        <item itemvalue="Application.Prewitt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecdab285-203c-4052-903b-333362f1bd23" name="Default Changelist" comment="" />
+      <created>1578033851016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578033851016</updated>
+      <workItem from="1578033853064" duration="2555000" />
+      <workItem from="1579553197183" duration="6133000" />
+      <workItem from="1579576252203" duration="7141000" />
+      <workItem from="1579654734778" duration="12318000" />
+      <workItem from="1579756641712" duration="16512000" />
+      <workItem from="1580087562101" duration="9661000" />
+      <workItem from="1580144271133" duration="3667000" />
+      <workItem from="1580934524249" duration="1320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OpenCV" />
+    <option name="LAST_COMMIT_MESSAGE" value="OpenCV" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579554339994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579554339994" />
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579554318906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579554318906" />
+    <state x="790" y="231" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1578033906774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="231" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578033906774" />
+    <state x="573" y="116" key="CommitChangelistDialog2" timestamp="1581368232700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="573" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581368232700" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580934552746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580934552746" />
+    <state x="836" y="411" width="269" height="218" key="Github.ShareDialog" timestamp="1580935205368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="411" width="269" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580935205368" />
+    <state x="801" y="225" key="Github.UntrackedFilesDialog" timestamp="1580935243531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580935243531" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580150145801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580150145801" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580150145801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580150145801" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580150145801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580150145801" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580150145801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580150145801" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1578033909807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578033909807" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580934692653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580934692653" />
+    <state x="647" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581368190493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581368190493" />
+  </component>
+</project>
